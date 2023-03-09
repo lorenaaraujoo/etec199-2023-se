@@ -1,5 +1,4 @@
-void setup()
-{
+void setup(){
   pinMode(A5, INPUT);
   pinMode(3, OUTPUT);
   pinMode(4, OUTPUT);
@@ -7,8 +6,7 @@ void setup()
   Serial.begin(9600);
 }
 
-void loop()
-{
+void loop(){
   if (analogRead(A5) < 350) {
     digitalWrite(3, HIGH);
     digitalWrite(4, LOW);
