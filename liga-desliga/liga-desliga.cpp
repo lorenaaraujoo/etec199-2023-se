@@ -1,13 +1,11 @@
 int Ligado = HIGH;
 
-void setup()
-{
+void setup(){
   pinMode(6, INPUT);
   pinMode(7, OUTPUT);
 }
 
-void loop()
-{ 
+void loop(){ 
   if (digitalRead(6) == 1) {
     if (Ligado == HIGH){
     	Ligado = LOW;
