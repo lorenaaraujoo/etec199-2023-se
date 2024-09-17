@@ -1,7 +1,11 @@
-<h1 align=center> Sistemas Embarcados </h1>
+<h1 align=center> SISTEMAS EMBARCADOS</h1>
+
+<p align="center">
+  <img src="etec.png" width="500">
+</p>
 
 #
-### SOBRE
+###  SOBRE
 
 - Diretório contendo desenvolvimento dos exercícios na disciplina de Sistemas Embarcados na Etec Cidade Tiradentes em 2023.
 
@@ -14,10 +18,9 @@
   - *Estrutura de Decisão*: IF, ELSE, ELSE IF, SWITCH;
   - Métodos, Classes e Objetos;
   - Identificação e Tratamento de Exceções;
-
 - *ARDUINO*:
   - Componentes e Interações;
-  - Estrutura de Hardware e Manipulacao.
+  - Estrutura de Hardware e Manipulação.
 
 #
 ### TECNOLOGIAS
